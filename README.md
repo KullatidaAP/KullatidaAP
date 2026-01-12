@@ -1,4 +1,3 @@
-# Kullatida Puranaphan
 # 💫 About Me:
 - I'm a senior Com-Sci Student.
 - I'm currently working on [Book Tracker Web Application](http://github.com/KullatidaAP/Book-Tracker)
